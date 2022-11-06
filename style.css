@@ -34,8 +34,8 @@ section{
     background-color: black;
     width: 70%;
     height: 200px;
-    margin: auto;
-    vertical-align: auto;
+    justify-content: center;
+    align-items: center;
     
     
 }
